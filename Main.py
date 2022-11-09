@@ -1,4 +1,4 @@
-"" circular doubly linked list """
+""" circular doubly linked list """
 
 
 length_of_circular_linked_list = int(input())
